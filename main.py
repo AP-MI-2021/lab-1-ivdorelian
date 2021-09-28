@@ -10,7 +10,7 @@ def is_prime(n):
   return True
   
 '''
-Returneaza produsul numerelor din lista lst.
+Returneaza produsul numerelor din lista lst.....
 '''
 def get_product(lst):
   p = 1
