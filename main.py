@@ -43,6 +43,7 @@ def get_cmmdc_v2(x, y):
 def main():
   # interfata de tip consola aici
   pass
+  print('Am implementat interfata!')
 
 if __name__ == '__main__':
   main()
